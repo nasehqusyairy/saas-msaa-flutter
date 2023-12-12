@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776707766838",
+    "project_id": "saas-msaa",
+    "storage_bucket": "saas-msaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776707766838:android:55b42707c4952b60cff697",
+        "android_client_info": {
+          "package_name": "com.example.saas_msaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeHEBDOutI8psOm8KiT5OhsaIT_L65hFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776707766838:android:2528be9ea81bb049cff697",
+        "android_client_info": {
+          "package_name": "com.example.student_activity_attendance_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeHEBDOutI8psOm8KiT5OhsaIT_L65hFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
